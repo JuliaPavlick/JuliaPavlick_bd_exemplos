@@ -1,0 +1,5 @@
+nome: Júlia Caroline Borges Pavlick
+idade: 17 anos
+conhecimento: Apenas o que teve no técnico
+trabalho: acabei de entrar em um projeto do senai 
+passatempo: passear com os cachorros
