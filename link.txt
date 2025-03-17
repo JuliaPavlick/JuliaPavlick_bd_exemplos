@@ -1,0 +1,1 @@
+git@github.com:JuliaPavlick/JuliaPavlick_bd_exemplos.git
